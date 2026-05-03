@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rxqxzl.aksesmasukrtp.club/sitemap.xml
